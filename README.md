@@ -1,2 +1,2 @@
-# Viking_jurney
+# Viking_journey
 ....
