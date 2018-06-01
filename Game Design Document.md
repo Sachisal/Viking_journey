@@ -1,5 +1,4 @@
-# Game Design Dokument
-„Vikings Journey“
+# Game Design Dokument fÃ¼r â€Vikings Journeyâ€œ
 
 # Design
 Spielname:	Vikings Journey
@@ -11,31 +10,31 @@ Spielmodus:	Singleplayer / Koop?
 Perspektive:	2D
 Genre:		Platformer, RPG
 
-Welche Struktur soll das Spiel haben? (Kapitel, Level, OpenWorld)
+## Welche Struktur soll das Spiel haben? (Kapitel, Level, OpenWorld)
 
-Was soll das User Interface beinhalten?
+## Was soll das User Interface beinhalten?
 
 
 # Story & Szenario
-Wie lässt sich die Geschichte zusammenfassen?
-Ein Junge aus einem Wikinger Dorf möchte Abenteuer erleben und fährt unerlaubt mit auf Wiking.
-Während dessen wird das Dorf von Wikingern angegriffen die dem Christentum angehören (König Blauzahn). (Frauen tot oder verschleppt). Der Junge fühlt sich schuldig und schwört Rache. Er beginnt sich durch halb Europa zu kämpfen um die Christen auszulöschen.
+## Wie lÃ¤sst sich die Geschichte zusammenfassen?
+Ein Junge aus einem Wikinger Dorf mÃ¶chte Abenteuer erleben und fÃ¤hrt unerlaubt mit auf Wiking.
+WÃ¤hrend dessen wird das Dorf von Wikingern angegriffen die dem Christentum angehÃ¶ren (KÃ¶nig Blauzahn). (Frauen tot oder verschleppt). Der Junge fÃ¼hlt sich schuldig und schwÃ¶rt Rache. Er beginnt sich durch halb Europa zu kÃ¤mpfen um die Christen auszulÃ¶schen.
 
-# Die komplette Geschichte:
-Junge sitzt an einer Klippe im Hintergrund ist das Dorf zusehen und ein Drachenboot das im Dorf anlegt. Die Wikinger sind zurück. Er rennt los zurück ins Dorf. (Erstes Tutorial Level, er läuft durch die später offene Welt des Heimatdorfes).
+## Die komplette Geschichte:
+Junge sitzt an einer Klippe im Hintergrund ist das Dorf zusehen und ein Drachenboot das im Dorf anlegt. Die Wikinger sind zurÃ¼ck. Er rennt los zurÃ¼ck ins Dorf. (Erstes Tutorial Level, er lÃ¤uft durch die spÃ¤ter offene Welt des Heimatdorfes).
 
-Im Dorf begrüßt er seinen Vater den Wikinger Häuptling der mit auf Wiking war und sagt, dass er beim nächsten Mal mit auf Wiking fahren will, der Vater lacht und sagt „Nur Männer mit Bärten dürfen mitfahren und das dauert bei dir wohl noch etwas“. (Zeitsprung) 
+Im Dorf begrÃ¼ÃŸt er seinen Vater den Wikinger HÃ¤uptling der mit auf Wiking war und sagt, dass er beim nÃ¤chsten Mal mit auf Wiking fahren will, der Vater lacht und sagt â€Nur MÃ¤nner mit BÃ¤rten dÃ¼rfen mitfahren und das dauert bei dir wohl noch etwasâ€œ. (Zeitsprung) 
 
-Die Vorbereitungen für den nächsten Wiking laufen, der Junge hilft beim Auftreiben der nötigen Dinge. Dabei kommt ihm die Idee das er sich einen künstlichen Bart anheften könnte um mitzufahren.
+Die Vorbereitungen fÃ¼r den nÃ¤chsten Wiking laufen, der Junge hilft beim Auftreiben der nÃ¶tigen Dinge. Dabei kommt ihm die Idee das er sich einen kÃ¼nstlichen Bart anheften kÃ¶nnte um mitzufahren.
 
-Die Wiking führt auf eine Insel auf der ein Kloster geplündert wird (Historische Quelle).
+Die Wiking fÃ¼hrt auf eine Insel auf der ein Kloster geplÃ¼ndert wird (Historische Quelle).
 
-Als sie zurück kommen ist das Dorf zerstört und die Frauen (weg/tot). (Ab hier kann man immer wieder ins Dorf und helfen Hütten wiederaufzubauen.) 
+Als sie zurÃ¼ck kommen ist das Dorf zerstÃ¶rt und die Frauen (weg/tot). (Ab hier kann man immer wieder ins Dorf und helfen HÃ¼tten wiederaufzubauen.) 
 
 
-Gibt es Zwischensequenzen im Spiel? Wo passen sie am besten?
+## Gibt es Zwischensequenzen im Spiel? Wo passen sie am besten?
 
 # Gameplay
-Beschreibe das Gameplay:
+## Beschreibe das Gameplay:
 
 
