@@ -31,6 +31,7 @@ Die Wiking führt auf eine Insel auf der ein Kloster geplündert wird (Historisc
 
 Als sie zurück kommen ist das Dorf zerstört und die Frauen (weg/tot). (Ab hier kann man immer wieder ins Dorf und helfen Hütten wiederaufzubauen.) 
 
+Einbauen von Leif Erikson als Jugendfreund später dann als Sidequest nach Amerika
 
 ### Gibt es Zwischensequenzen im Spiel? Wo passen sie am besten?
 
