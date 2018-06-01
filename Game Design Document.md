@@ -16,7 +16,7 @@ Genre:		Platformer, RPG
 
 
 ## Story & Szenario
-## Wie lässt sich die Geschichte zusammenfassen?
+### Wie lässt sich die Geschichte zusammenfassen?
 Ein Junge aus einem Wikinger Dorf möchte Abenteuer erleben und fährt unerlaubt mit auf Wiking.
 Während dessen wird das Dorf von Wikingern angegriffen die dem Christentum angehören (König Blauzahn). (Frauen tot oder verschleppt). Der Junge fühlt sich schuldig und schwört Rache. Er beginnt sich durch halb Europa zu kämpfen um die Christen auszulöschen.
 
