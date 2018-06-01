@@ -1,6 +1,6 @@
-# Game Design Dokument für „Vikings Journey“
+﻿# Game Design Dokument für „Vikings Journey“
 
-# Design
+## Design
 Spielname:	Vikings Journey
 Plattform:	PC (Steam)
 Engine:		Unity
@@ -10,17 +10,17 @@ Spielmodus:	Singleplayer / Koop?
 Perspektive:	2D
 Genre:		Platformer, RPG
 
-## Welche Struktur soll das Spiel haben? (Kapitel, Level, OpenWorld)
+### Welche Struktur soll das Spiel haben? (Kapitel, Level, OpenWorld)
 
-## Was soll das User Interface beinhalten?
+### Was soll das User Interface beinhalten?
 
 
-# Story & Szenario
+## Story & Szenario
 ## Wie lässt sich die Geschichte zusammenfassen?
 Ein Junge aus einem Wikinger Dorf möchte Abenteuer erleben und fährt unerlaubt mit auf Wiking.
 Während dessen wird das Dorf von Wikingern angegriffen die dem Christentum angehören (König Blauzahn). (Frauen tot oder verschleppt). Der Junge fühlt sich schuldig und schwört Rache. Er beginnt sich durch halb Europa zu kämpfen um die Christen auszulöschen.
 
-## Die komplette Geschichte:
+### Die komplette Geschichte:
 Junge sitzt an einer Klippe im Hintergrund ist das Dorf zusehen und ein Drachenboot das im Dorf anlegt. Die Wikinger sind zurück. Er rennt los zurück ins Dorf. (Erstes Tutorial Level, er läuft durch die später offene Welt des Heimatdorfes).
 
 Im Dorf begrüßt er seinen Vater den Wikinger Häuptling der mit auf Wiking war und sagt, dass er beim nächsten Mal mit auf Wiking fahren will, der Vater lacht und sagt „Nur Männer mit Bärten dürfen mitfahren und das dauert bei dir wohl noch etwas“. (Zeitsprung) 
@@ -32,9 +32,9 @@ Die Wiking führt auf eine Insel auf der ein Kloster geplündert wird (Historisc
 Als sie zurück kommen ist das Dorf zerstört und die Frauen (weg/tot). (Ab hier kann man immer wieder ins Dorf und helfen Hütten wiederaufzubauen.) 
 
 
-## Gibt es Zwischensequenzen im Spiel? Wo passen sie am besten?
+### Gibt es Zwischensequenzen im Spiel? Wo passen sie am besten?
 
-# Gameplay
-## Beschreibe das Gameplay:
+## Gameplay
+### Beschreibe das Gameplay:
 
 
