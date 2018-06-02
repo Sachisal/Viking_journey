@@ -238,7 +238,7 @@ GameObject:
   - component: {fileID: 1709051791}
   - component: {fileID: 1709051790}
   m_Layer: 0
-  m_Name: Dark Green Grass
+  m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -598,7 +598,7 @@ Tilemap:
   - first: {x: 0, y: -3, z: 0}
     second:
       m_TileIndex: 0
-      m_TileSpriteIndex: 1
+      m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -616,7 +616,7 @@ Tilemap:
   - first: {x: 2, y: -3, z: 0}
     second:
       m_TileIndex: 0
-      m_TileSpriteIndex: 1
+      m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -932,13 +932,17 @@ Tilemap:
   m_TileAssetArray:
   - m_RefCount: 69
     m_Data: {fileID: 11400000, guid: ef653e24e63d4d442a1c5f7502f4e716, type: 2}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   m_TileSpriteArray:
   - m_RefCount: 4
     m_Data: {fileID: 21300010, guid: 6e42c7f6564acbf4f89c60914cd17ddd, type: 3}
-  - m_RefCount: 2
-    m_Data: {fileID: 21300004, guid: 6e42c7f6564acbf4f89c60914cd17ddd, type: 3}
   - m_RefCount: 0
     m_Data: {fileID: 0}
+  - m_RefCount: 2
+    m_Data: {fileID: 21300004, guid: 6e42c7f6564acbf4f89c60914cd17ddd, type: 3}
   - m_RefCount: 0
     m_Data: {fileID: 0}
   - m_RefCount: 3
