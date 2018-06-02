@@ -4,16 +4,32 @@
 Spielname:	Vikings Journey
 Plattform:	PC (Steam)
 Engine:		Unity
-Zielgruppe:	Kinder / Casual Gamer
+Zielgruppe:	Casual Gamer
 
 Spielmodus:	Singleplayer / Koop?
 Perspektive:	2D
 Genre:		Platformer, RPG
 
 ### Welche Struktur soll das Spiel haben? (Kapitel, Level, OpenWorld)
-
+3 Kapitel:
+Einleitung: Bis zur Zerstörung des Dorfes.
+            1.
+            2.
+            3.
+            
+Hauptteil:  Erkundung und Questen auf der Weltkarte. Level (liniar?/offen?) auf der Karte auswählen.
+            Offenes Erkunden des Heimatdorfes.
+            1.
+            2.
+            3.
+            
+Finale:     Durchkämpfen durch mehrere aufeinanderfolgende Level bis hin zum Endboss
+            1.
+            2.
+            3.
+            
 ### Was soll das User Interface beinhalten?
-
+* Anzeige von Questzielen
 
 ## Story & Szenario
 ### Wie lässt sich die Geschichte zusammenfassen?
@@ -37,5 +53,22 @@ Einbauen von Leif Erikson als Jugendfreund später dann als Sidequest nach Ameri
 
 ## Gameplay
 ### Beschreibe das Gameplay:
+
+### Beschreibe jedes Level:
+
+### Beschreibe jede Quest/Mission:
+
+### Beschreibe alle Charakter (Hauptcharakter/NPCs/Gegner/Bosse):
+
+#### Hauptcharakter
+
+#### NPCs
+
+#### Gegner
+
+#### Bosse
+
+## Sound Design
+
 
 
