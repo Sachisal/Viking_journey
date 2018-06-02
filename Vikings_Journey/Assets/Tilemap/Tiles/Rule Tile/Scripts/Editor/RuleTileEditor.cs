@@ -67,13 +67,13 @@ namespace UnityEditor
 		
 		protected ReorderableList m_ReorderableList;
 		public RuleTile tile { get { return (target as RuleTile); } }
-		protected Rect m_ListRect;
+		// protected Rect m_ListRect;
 
 		protected const float k_DefaultElementHeight = 48f;
 		protected const float k_PaddingBetweenRules = 13f;
 		protected const float k_SingleLineHeight = 16f;
 		protected const float k_LabelWidth = 53f;
-			
+
 		public void OnEnable()
 		{
 			if (tile.m_TilingRules == null)
@@ -395,7 +395,8 @@ namespace UnityEditor
 			}
 			catch (Exception e)
 			{
-				Debug.LogError("Unable to paste rules from system copy buffer");
+                Debug.LogError(e);
+                Debug.LogError("Unable to paste rules from system copy buffer");
 			}
 		}
 	}

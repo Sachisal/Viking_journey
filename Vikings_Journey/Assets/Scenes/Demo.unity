@@ -969,6 +969,18 @@ Tilemap:
     m_Data: {fileID: 21300012, guid: 6e42c7f6564acbf4f89c60914cd17ddd, type: 3}
   - m_RefCount: 6
     m_Data: {fileID: 21300014, guid: 6e42c7f6564acbf4f89c60914cd17ddd, type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   m_TileMatrixArray:
   - m_RefCount: 69
     m_Data:
