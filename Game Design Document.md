@@ -1,14 +1,13 @@
 ﻿# Game Design Dokument für „Vikings Journey“
 
 ## Design
-Spielname:	Vikings Journey
-Plattform:	PC (Steam)
-Engine:		Unity
-Zielgruppe:	Casual Gamer
-
-Spielmodus:	Singleplayer / Koop?
-Perspektive:	2D
-Genre:		Platformer, RPG
+* Spielname:	Vikings Journey
+* Plattform:	PC (Steam)
+* Engine:		Unity
+* Zielgruppe:	Casual Gamer
+* Spielmodus:	Singleplayer / Koop?
+* Perspektive:	2D
+* Genre:	Platformer, RPG
 
 ### Welche Struktur soll das Spiel haben? (Kapitel, Level, OpenWorld)
 3 Kapitel:
@@ -66,8 +65,6 @@ Leif Erikson	|Murika		|		|Dorf	|
 Type	|Name	|HP	|Schaden	|Level	|
 :------:|:------|:-----:|:-------------:|:-----:|
 Melee	|Rat 	|3	|1		|1,2	|
-	| 	|	|		|	|
-	| 	|	|		|	|
 
 #### Bosse
 
