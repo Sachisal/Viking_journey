@@ -13,20 +13,11 @@ Genre:		Platformer, RPG
 ### Welche Struktur soll das Spiel haben? (Kapitel, Level, OpenWorld)
 3 Kapitel:
 Einleitung: Bis zur Zerstörung des Dorfes.
-            1.
-            2.
-            3.
-            
+         
 Hauptteil:  Erkundung und Questen auf der Weltkarte. Level (liniar?/offen?) auf der Karte auswählen.
             Offenes Erkunden des Heimatdorfes.
-            1.
-            2.
-            3.
-            
+           
 Finale:     Durchkämpfen durch mehrere aufeinanderfolgende Level bis hin zum Endboss
-            1.
-            2.
-            3.
             
 ### Was soll das User Interface beinhalten?
 * Anzeige von Questzielen
@@ -56,6 +47,10 @@ Einbauen von Leif Erikson als Jugendfreund später dann als Sidequest nach Ameri
 
 ### Beschreibe jedes Level:
 
+Level 1: Klassisches Tutorial Level. Junge startet auf einer Klippe kann nur nach Rechts laufen. Hintergrund wechselt in Wald. Junge springt über kleine Hindernisse. Es kommt eine kleine Schlucht mit einem Seil darüber, darunter die Möglichkeit zurück zu laufen. Eine weitere Schlucht hier ist es nicht möglich das Seil zu greifen, man fällt in eine Höhle (vielleicht Bretter die brechen). auf dem Boden findet man einen Stock den man als Waffe ausrüsten kann. Nun geht der Weg nach links. Der erste Gegner eine Ratte taucht auf. Man bewegt sich durch einen Gang, weitere Hindernisse und Gegner(Ratten). Am Ende geht es eine Leiter nach oben und man kommt in der Taverne raus. Wenn man sich hier mit dem Wirt unterhält dankt er dafür das man die Ratten in seinem Keller getötet hat mit einem Apfel und ein paar Münzen. Man verlässt die Taverne und findet sich mitten im Dorf wieder. Nun kann man das Dorf nach rechts bis zum Tor oder nach links bis zum Hafen erkunden. Sobald man den Bereich des Hafens betritt startet eine Sequenz in der man den Vater der von Wiking kam begrüßt.
+
+Level 2:  
+
 ### Beschreibe jede Quest/Mission:
 
 ### Beschreibe alle Charakter (Hauptcharakter/NPCs/Gegner/Bosse):
@@ -63,8 +58,16 @@ Einbauen von Leif Erikson als Jugendfreund später dann als Sidequest nach Ameri
 #### Hauptcharakter
 
 #### NPCs
+Name		|Quests		|Wohnhaus	|Level	|
+:---------------|--------------:|:--------------|:-----:|
+Leif Erikson	|Murika		|		|Dorf	|
 
 #### Gegner
+Type	|Name	|HP	|Schaden	|Level	|
+:------:|:------|:-----:|:-------------:|:-----:|
+Melee	|Rat 	|3	|1		|1,2	|
+	| 	|	|		|	|
+	| 	|	|		|	|
 
 #### Bosse
 
