@@ -1,0 +1,3 @@
+Aufgabe | Bearbeiter
+:-------| :--------:
+Mindmap | Tom
