@@ -7,6 +7,11 @@ public class Player_Movement : MonoBehaviour {
     // References
     private Rigidbody2D rb;
 
+    // Floates
+    private float move;
+
+    public float move_spd;
+
 	// Use this for initialization
 	void Start () {
 
@@ -17,7 +22,8 @@ public class Player_Movement : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-        Input.GetAxis("Horizontal");
+        move = Input.GetAxis("Horizontal");
 
+        rb.velocity = new Vector3(move_spd*move, rb.velocity.y, 0);
 	}
 }

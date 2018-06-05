@@ -5,60 +5,60 @@ TextureImporter:
     21300000: boy_head
     21300002: boy_l_eye
     21300004: boy_r_eye
-    21300006: viking_l_eye_close
+    21300006: boy_l_eye_close
     21300008: boy_r_eye_close
     21300010: boy_helmet_back
     21300012: boy_helmet_side
-    21300014: viking_boy_parts_7
-    21300016: viking_boy_parts_8
-    21300018: viking_boy_parts_9
-    21300020: viking_boy_parts_10
-    21300022: viking_boy_parts_11
-    21300024: viking_boy_parts_12
-    21300026: viking_boy_parts_13
-    21300028: viking_boy_parts_14
+    21300014: boy_nose
+    21300016: boy_ear_side
+    21300018: boy_ear_l_back
+    21300020: boy_ear_r_back
+    21300022: boy_hand_r_side
+    21300024: boy_hand_l_side
+    21300026: boy_hand_l_back
+    21300028: boy_hand_r_back
     21300030: boy_shield_front
     21300032: boy_shield_back
-    21300034: viking_boy_parts_17
-    21300036: viking_boy_parts_18
-    21300038: viking_boy_parts_19
-    21300040: viking_boy_parts_20
-    21300042: viking_boy_parts_21
-    21300044: viking_boy_parts_22
-    21300046: viking_boy_parts_23
-    21300048: viking_boy_parts_24
+    21300034: boy_sword_l
+    21300036: boy_sword_r
+    21300038: boy_mouth_sad
+    21300040: boy_under_arm
+    21300042: boy_knee
+    21300044: boy_under_arm_l_back
+    21300046: boy_under_arm_r_back
+    21300048: boy_mouth_happy
     21300050: boy_torso_back_blue
     21300052: boy_torso_side_blue
     21300054: boy_torso_back_brown
     21300056: boy_torso_side_brown
     21300058: boy_torso_back_green
     21300060: boy_torso_side_green
-    21300062: viking_boy_parts_31
-    21300064: viking_boy_parts_32
-    21300066: viking_boy_parts_33
-    21300068: viking_boy_parts_34
-    21300070: viking_boy_parts_35
+    21300062: boy_feet_blue_side
+    21300064: boy_pans_brown
+    21300066: boy_arm_blue
+    21300068: boy_feet_blue_back
+    21300070: boy_hair_brown_pike
     21300072: boy_hair_brown_side
     21300074: boy_hair_brown_back
-    21300076: viking_boy_parts_38
-    21300078: viking_boy_parts_39
-    21300080: viking_boy_parts_40
-    21300082: viking_boy_parts_41
-    21300084: viking_boy_parts_42
-    21300086: viking_boy_parts_43
+    21300076: boy_eyebrow_r_brown
+    21300078: boy_eyebrow_l_brown
+    21300080: boy_feet_brown_side
+    21300082: boy_arm_brown
+    21300084: boy_feet_brown_back
+    21300086: boy_hair_blond_pike
     21300088: boy_hair_blond_side
     21300090: boy_hair_blond_back
-    21300092: viking_boy_parts_46
-    21300094: viking_boy_parts_47
-    21300096: viking_boy_parts_48
-    21300098: viking_boy_parts_49
-    21300100: viking_boy_parts_50
-    21300102: viking_boy_parts_51
-    21300104: viking_boy_parts_52
-    21300106: viking_boy_parts_53
+    21300092: boy_pans_sand
+    21300094: boy_eyebrow_r_blond
+    21300096: boy_eyebrow_l_blond
+    21300098: boy_feet_sand_side
+    21300100: boy_pans_red
+    21300102: boy_arm_green
+    21300104: boy_feet_sand_back
+    21300106: boy_hair_red_pike
     21300108: boy_hair_red_side
-    21300110: viking_boy_parts_55
-    21300112: viking_boy_parts_56
+    21300110: boy_eyebrow_r_red
+    21300112: boy_eyebrow_l_red
     21300114: boy_hair_red_back
   externalObjects: {}
   serializedVersion: 5
@@ -103,7 +103,7 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -200,7 +200,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_l_eye_close
+      name: boy_l_eye_close
       rect:
         serializedVersion: 2
         x: 785
@@ -280,7 +280,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_7
+      name: boy_nose
       rect:
         serializedVersion: 2
         x: 515
@@ -300,7 +300,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_8
+      name: boy_ear_side
       rect:
         serializedVersion: 2
         x: 614
@@ -320,7 +320,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_9
+      name: boy_ear_l_back
       rect:
         serializedVersion: 2
         x: 799
@@ -340,7 +340,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_10
+      name: boy_ear_r_back
       rect:
         serializedVersion: 2
         x: 924
@@ -360,10 +360,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_11
+      name: boy_hand_r_side
       rect:
         serializedVersion: 2
-        x: 486
+        x: 489
         y: 2254
         width: 99
         height: 100
@@ -380,7 +380,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_12
+      name: boy_hand_l_side
       rect:
         serializedVersion: 2
         x: 625
@@ -400,7 +400,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_13
+      name: boy_hand_l_back
       rect:
         serializedVersion: 2
         x: 794
@@ -420,7 +420,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_14
+      name: boy_hand_r_back
       rect:
         serializedVersion: 2
         x: 922
@@ -480,7 +480,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_17
+      name: boy_sword_l
       rect:
         serializedVersion: 2
         x: 2004
@@ -500,7 +500,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_18
+      name: boy_sword_r
       rect:
         serializedVersion: 2
         x: 2198
@@ -520,7 +520,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_19
+      name: boy_mouth_sad
       rect:
         serializedVersion: 2
         x: 134
@@ -540,7 +540,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_20
+      name: boy_under_arm
       rect:
         serializedVersion: 2
         x: 503
@@ -560,7 +560,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_21
+      name: boy_knee
       rect:
         serializedVersion: 2
         x: 614
@@ -580,7 +580,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_22
+      name: boy_under_arm_l_back
       rect:
         serializedVersion: 2
         x: 810
@@ -600,10 +600,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_23
+      name: boy_under_arm_r_back
       rect:
         serializedVersion: 2
-        x: 928
+        x: 931
         y: 2096
         width: 79
         height: 145
@@ -620,7 +620,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_24
+      name: boy_mouth_happy
       rect:
         serializedVersion: 2
         x: 146
@@ -760,7 +760,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_31
+      name: boy_feet_blue_side
       rect:
         serializedVersion: 2
         x: 0
@@ -780,7 +780,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_32
+      name: boy_pans_brown
       rect:
         serializedVersion: 2
         x: 209
@@ -800,7 +800,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_33
+      name: boy_arm_blue
       rect:
         serializedVersion: 2
         x: 335
@@ -820,7 +820,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_34
+      name: boy_feet_blue_back
       rect:
         serializedVersion: 2
         x: 531
@@ -840,7 +840,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_35
+      name: boy_hair_brown_pike
       rect:
         serializedVersion: 2
         x: 843
@@ -883,7 +883,7 @@ TextureImporter:
       name: boy_hair_brown_back
       rect:
         serializedVersion: 2
-        x: 1732
+        x: 1735
         y: 1031
         width: 451
         height: 417
@@ -900,7 +900,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_38
+      name: boy_eyebrow_r_brown
       rect:
         serializedVersion: 2
         x: 744
@@ -920,7 +920,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_39
+      name: boy_eyebrow_l_brown
       rect:
         serializedVersion: 2
         x: 907
@@ -940,10 +940,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_40
+      name: boy_feet_brown_side
       rect:
         serializedVersion: 2
-        x: 14
+        x: 11
         y: 758
         width: 166
         height: 220
@@ -960,10 +960,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_41
+      name: boy_arm_brown
       rect:
         serializedVersion: 2
-        x: 331
+        x: 334
         y: 750
         width: 142
         height: 218
@@ -980,7 +980,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_42
+      name: boy_feet_brown_back
       rect:
         serializedVersion: 2
         x: 514
@@ -1000,7 +1000,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_43
+      name: boy_hair_blond_pike
       rect:
         serializedVersion: 2
         x: 827
@@ -1060,7 +1060,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_46
+      name: boy_pans_sand
       rect:
         serializedVersion: 2
         x: 210
@@ -1080,7 +1080,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_47
+      name: boy_eyebrow_r_blond
       rect:
         serializedVersion: 2
         x: 734
@@ -1100,7 +1100,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_48
+      name: boy_eyebrow_l_blond
       rect:
         serializedVersion: 2
         x: 907
@@ -1120,10 +1120,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_49
+      name: boy_feet_sand_side
       rect:
         serializedVersion: 2
-        x: 0
+        x: 3
         y: 327
         width: 166
         height: 220
@@ -1140,7 +1140,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_50
+      name: boy_pans_red
       rect:
         serializedVersion: 2
         x: 176
@@ -1160,7 +1160,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_51
+      name: boy_arm_green
       rect:
         serializedVersion: 2
         x: 283
@@ -1180,10 +1180,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_52
+      name: boy_feet_sand_back
       rect:
         serializedVersion: 2
-        x: 452
+        x: 445
         y: 320
         width: 104
         height: 231
@@ -1200,7 +1200,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_53
+      name: boy_hair_red_pike
       rect:
         serializedVersion: 2
         x: 829
@@ -1223,8 +1223,8 @@ TextureImporter:
       name: boy_hair_red_side
       rect:
         serializedVersion: 2
-        x: 1014
-        y: 180
+        x: 1004
+        y: 177
         width: 582
         height: 322
       alignment: 0
@@ -1240,7 +1240,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_55
+      name: boy_eyebrow_r_red
       rect:
         serializedVersion: 2
         x: 729
@@ -1260,7 +1260,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: viking_boy_parts_56
+      name: boy_eyebrow_l_red
       rect:
         serializedVersion: 2
         x: 864
