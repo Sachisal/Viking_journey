@@ -11,6 +11,7 @@ public class Player_Movement : MonoBehaviour {
     private float move;
 
     public float move_spd;
+    public float jumpVelocity;
 
 	// Use this for initialization
 	void Start () {
@@ -23,7 +24,11 @@ public class Player_Movement : MonoBehaviour {
 	void Update () {
 
         move = Input.GetAxis("Horizontal");
-
         rb.velocity = new Vector3(move_spd*move, rb.velocity.y, 0);
+
+        if (Input.GetButtonDown("Jump"))
+        {
+            rb.velocity = Vector2.up * jumpVelocity;
+        }
 	}
 }
