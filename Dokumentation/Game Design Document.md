@@ -10,15 +10,12 @@
 * Genre:	         Platformer, RPG
 
 ### Welche Struktur soll das Spiel haben? (Kapitel, Level, OpenWorld)
-Das Spiel ist in 3 Kapitel unterteilt, die Level bieten eine offene Spielwelt mit Bereichen die nur :
+4 Kapitel diese bestehen aus einzelnen Leveln diese sind offen erkundbar.
 
-Einleitung:       Der Alltag des Spielers während die Männer des Dorfes auf Wiking sind.
-                  Rückkehr der Männer von der Wiking vorbereiten der nächsten Wiking.
-                  Auf das Boot schleichen. Totes Ende / Plünderung auf der Kloster Insel.
-                  
-Hauptteil:        Rückkehr zur Heimat, Zerstörtes Dorf, Konstantinopel, Reise nach Rom.
-           
-Finale:           Durchkämpfen durch mehrere aufeinanderfolgende Level bis hin zum Endboss
+Einleitung: Start bis Rückkehr der ersten Wiking
+Hauptpart:  Aufbau des Dorfes bis Konstantinopel
+            Rückkehr ins Dorf und Vorbereitung der Fahrt nach Rom
+Finale:     Weg nach Rom und Boss Kampf
             
 ### Was soll das User Interface beinhalten?
 * Anzeige von Questzielen
@@ -26,7 +23,7 @@ Finale:           Durchkämpfen durch mehrere aufeinanderfolgende Level bis hin 
 ## Story & Szenario
 ### Wie lässt sich die Geschichte zusammenfassen?
 Ein Junge aus einem Wikinger Dorf möchte Abenteuer erleben und fährt unerlaubt mit auf Wiking.
-Während dessen wird das Dorf von Wikingern angegriffen die dem Christentum angehören (König Blauzahn). (Frauen tot oder verschleppt). Der Junge fühlt sich schuldig und schwört Rache. Er beginnt sich durch halb Europa zu kämpfen um die Christen auszulöschen.
+Während dessen wird das Dorf von Wikingern angegriffen. 
 
 ### Die komplette Geschichte:
 <Charaktername> wird von der Mutter geweckt. Soll was besorgen. Wird von einem zum anderen geschickt.
@@ -142,19 +139,19 @@ Level 8: Rom
 #### Hauptcharakter
 
 #### NPCs
-Name		|Quests	         |Wohnhaus	|Level	|
-:----             |----:            |:----            |:----:  |
-Leif Erikson      |Murika		|		|Dorf	|
+Name		     |Quests |Wohnhaus	|Level	 |
+:----        |----:  |:----     |:----:  |
+Leif Erikson |Murika |		      |Dorf	   |
 
 #### Gegner
-Type	|Name	|HP	|Schaden	|Level	|
-:----:   |:----   |:----:  |:----:  |:----:  |
-Melee	|Rat 	|3	|1	|1,2	|
+Type	 |Name	 |HP	      |Schaden  |Level	|
+:----  |----:  |:----     |:----:   |:---:  |
+Melee  |Ratte  |3		      |1  	    |       |
 
 #### Bosse
-Type	|Name	|HP	|Schaden	|Level	|
-:----:   |:----   |:----:  |:----:  |:----:  |
-Melee	|Rat 	|3	|1	|1,2	|
+Type	 |Name	 |HP	      |Schaden  |Level	|
+:----  |----:  |:----     |:----:   |:---:  |
+Melee  |Ratte  |3		      |1  	    |       |
 
 ### Waffen
 * Axt
