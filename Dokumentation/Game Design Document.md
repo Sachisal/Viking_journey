@@ -3,19 +3,19 @@
 ## Design
 * Spielname:	Vikings Journey
 * Plattform:	PC (Steam)
-* Engine:	Unity
+* Engine:	            Unity
 * Zielgruppe:	Casual Gamer
 * Spielmodus:	Singleplayer
 * Perspektive:	2D
-* Genre:	         Platformer, RPG
+* Genre:	            Platformer, RPG
 
 ### Welche Struktur soll das Spiel haben? (Kapitel, Level, OpenWorld)
 4 Kapitel diese bestehen aus einzelnen Leveln diese sind offen erkundbar.
 
-Einleitung: Start bis Rückkehr der ersten Wiking
-Hauptpart:  Aufbau des Dorfes bis Konstantinopel
-            Rückkehr ins Dorf und Vorbereitung der Fahrt nach Rom
-Finale:     Weg nach Rom und Boss Kampf
+* Einleitung:         	Start bis Rückkehr der ersten Wiking
+* Hauptpart:            Aufbau des Dorfes bis Konstantinopel
+                        Rückkehr ins Dorf und Vorbereitung der Fahrt nach Rom
+* Finale:               Weg nach Rom und Boss Kampf
             
 ### Was soll das User Interface beinhalten?
 * Anzeige von Questzielen
@@ -25,34 +25,34 @@ Finale:     Weg nach Rom und Boss Kampf
 Ein Junge aus einem Wikinger Dorf möchte Abenteuer erleben und fährt unerlaubt mit auf Wiking.
 Während dessen wird das Dorf von Wikingern angegriffen. 
 
-### Die komplette Geschichte:
-<Charaktername> wird von der Mutter geweckt. Soll was besorgen. Wird von einem zum anderen geschickt.
+### Die komplette Geschichte
+Racknar wird klassisch von der Mutter geweckt. Sie bittet ihn für das Festessen einen Großen Fisch und Kräuter zu besorgen. Also macht er sich auf zum Fischer dieser streitet sich mit dem anderen Fischer weil ihm die Padel vom Boot gestohlen wurden der zweite Fischer verschwindet. Man schlägt vor Ihm neue Padel vom Holzfäller zu besorgen wen man dafür seinen letzten Fisch bekommt. Also zum Holzfäller diesem ist der Axtkopf gebrochen daher solle man ihm doch einen vom Schmied besorgen. Der Schmied arbeitet nur für ein Volles Horn mit Met daher gehts in die Taverne, hier hat der Wirt Angst vor einigen Ratten in seinem Lager und bittet uns diese zu vertreiben. So nun Retour beim Fischer angekommen bekommt man den Großen Fisch,  Auf dem Heimweg kommt Leif Erikson der Schläger des Dorfes und nimmt ihm den Fisch ab. Also zurück zum Fischer dieser hat keinen Fisch mehr gibt einem aber eine Angel und den Tipp auf der Klippe zu fischen da es dort die Größten Fische gibt. 
 
-Abschließend zum Fischer der ihm eine Angel gibt und ihn auf die Klippe schickt.  
+Also macht man sich auf zur Klippe praktischer weiße kommt man dabei bei den Kräuterweibern im Wald vorbei und kann die nötigen Kräuter holen. Auf der Klippe angekommen kann man nun Angeln(Minispiel), Wenn man einen Gefangen hat startet eine CutSzene in der man das Schiff der eigenen Männer am Hafen ankommen sieht. Er rennt ins Dorf (Level 1)
 
-Junge sitzt an einer Klippe im Hintergrund ist das Dorf zusehen und ein Drachenboot das im Dorf anlegt. Die Wikinger sind zurück. Er rennt los zurück ins Dorf. (Erstes Tutorial Level, er läuft durch die später offene Welt des Heimatdorfes).
+Im Dorf begrüßt er seinen Vater den Wikinger Häuptling der mit auf Wiking war und sagt, dass er beim nächsten Mal mit auf Wiking fahren will, der Vater lacht und sagt „Nur Männer mit Bärten dürfen mitfahren und das dauert bei dir wohl noch etwas“. Große Feier. (Szene des Großen Festes danach schläft man und wacht einige Monate später auf)
 
-Im Dorf begrüßt er seinen Vater den Wikinger Häuptling der mit auf Wiking war und sagt, dass er beim nächsten Mal mit auf Wiking fahren will, der Vater lacht und sagt „Nur Männer mit Bärten dürfen mitfahren und das dauert bei dir wohl noch etwas“. Große Feier. (Zeitsprung) 
+Die Vorbereitungen für den nächsten Wiking laufen, der Junge bekommt verschiedene Quest zum Auftreiben der nötigen Dinge (Eine Ziege, ein Runenstein, und heilende Kräuter). Dabei kommt ihm die Idee das er sich einen künstlichen Bart anheften könnte um mitzufahren. Schleicht sich morgends auf das Boot.(Level 2)
 
-Die Vorbereitungen für den nächsten Wiking laufen, der Junge bekommt verschiedene Quest zum Auftreiben der nötigen Dinge. Dabei kommt ihm die Idee das er sich einen künstlichen Bart anheften könnte um mitzufahren. Schleicht sich morgends auf das Boot, wenn er erwischt wird legt das Boot ohne ihn ab, Bösewichte kommen ins Dorf er kann kämpfen aber nur verlieren.
+Wenn er erwischt wird legt das Boot ohne ihn ab, Bösewichte kommen ins Dorf er kann kämpfen aber nur verlieren.(Level 2.Ende)
 
-Wenn er es schafft nimmt er an der Plüngerung des Klosters teil auf der ersten Insel.
+Wenn er es schafft nimmt er an der Plüngerung des Klosters teil auf der ersten Insel. (Level 3)
 
-Als sie zurück kommen ist das Dorf zerstört und die Frauen tot. Beim des Dorfes findet man den Dorfältesten nicht, dieser hat sich mit den Kindern in den Mienen versteckt und wurde verschüttet. Man muss ihn befreien und pflegen Kräuterweiber umhilfe bitten.
-Beim aufräumen des Dorfes entdeckt man eine Münze, der Älteste hat solche Münzen schon mal auf dem großen Markt von Konstantinopel gesehen. Also geht die Reise los.
+Als sie zurück kommen ist das Dorf zerstört und die Frauen tot. Beim durchsuchen des Dorfes findet man den Dorfältesten und die Kinder nicht, die haben sich in den Mienen versteckt und wurde verschüttet. Man muss sie befreien und den Ältisten zu den Kräuterweibern bringen um ihn dort zu Pflegen. Während der Genesung probiert man im Dorf herrauszufinden wer dahinter steckte.
+Beim Aufräumen und durchsuchen des Dorfes entdeckt man eine Münze, der Älteste hat solche Münzen schon mal auf dem großen Markt von Konstantinopel gesehen. Man hilft seinem Dad das Dorf wieder aufzubauen, dannach sammelt er seine besten Männer und dich und bricht nach Konstantinopel auf. 
 
-In Nowgorod wird der Fluß blockiert, und man braucht Proviant.
+In Nowgorod wird der Fluß blockiert. Das Dorf wird terrorisiert von Wikingern diese muss man eine Lektion lehren. Damit man weiter kommt.
 
 Ankunft Konstantinopel
 Findet man heraus das die Münzen von französischen Händlern kommen.
 
-Auf dem Rückweg wieder Zwischenstop in Nowgorod hierbei wird der Vater und einige Männer getötet. Der Mörder wird ist der Boss den man töten muss damit die Männer einen akzeptieren als Häuptling.
+Auf dem Rückweg wieder Zwischenstop in Nowgorod hierbei geraten der Vater und einige Männer in einen Hinterhalt der Männer die man vorher schon bekämpft hat. Dabei sterben der Vater und einige Männer. Der Mörder wird der Boss den man töten muss damit die Männer einen akzeptieren als neuen Häuptling. Man bekommt den Namen Racknar der Rächer.
 
-Die Reise geht zurück ins Heimatdorf. Dort müsssen die jetzt erwachsenen Kinder überredet werden mit zukommen um die Mütter zu rächen.
+Die Reise geht zurück ins Heimatdorf. Dort müsssen die jetzt erwachsenen Kinder überredet werden mit zukommen um ihre Mütter zu rächen.
 
 Einige Side Quests zum überreden. (York / Grönland)
 
-Normandie
+Normandie 
 
 Sevilla, Wendepunkt die ganze Sache Gerät ins Kippen
 
